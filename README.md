@@ -1,191 +1,87 @@
-# CYBS-GBG-E25A-Programming
+# CYBS-GBG-E25A Programming Course
 
-Welcome to the Programming Course 1st Semester repository! This repository contains all the code examples, exercises, and materials for our programming course.
+Welcome to your first programming course! 🎉
 
-## 📚 Course Information
+## 📚 About This Course
+
+This is where you'll find all the code examples from our programming classes. Each file contains examples and exercises to help you learn Python programming step by step.
 
 - **Course**: Programming 1st Semester
 - **Team**: CYBS-GBG-E25A
 - **Language**: Python 3.8+
-- **Instructor**: Alex & Sebastian
-- **Academic Year**: 2025-2025
-
-## 🎯 Learning Objectives
-
-By the end of this course, students will be able to:
-
-- Understand fundamental programming concepts
-- Write clean, readable Python code
-- Solve problems using programming logic
-- Debug and test their code effectively
-- Apply programming concepts to real-world scenarios
-
-## 📁 Repository Structure
-
-```
-CYBS-GBG-E25A-Programming/
-├── README.md                     # This file
-├── .gitignore                    # Git ignore rules
-├── .github/
-│   └── copilot-instructions.md   # GitHub Copilot instructions
-├── requirements.txt              # Python dependencies (if any)
-├── 001_first.py                  # Session 1: Introduction
-├── 002_first_with_input.py       # Session 2: User Input
-└── [Additional session files as course progresses]
-```
+- **Instructors**: Alex & Sebastian
+- **Academic Year**: 2025
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### What You Need
+- Python 3.8 or newer installed on your computer
+- A text editor (we recommend VS Code)
 
-- Python 3.8 or higher installed on your computer
-- A text editor or IDE (VS Code recommended)
-- Git (for cloning the repository)
+### How to Use These Files
+1. **Download** or **clone** this repository to your computer
+2. **Open** the Python files in your text editor
+3. **Read** the code and comments carefully
+4. **Run** the programs to see how they work
+5. **Try** the exercises at the end of each file
 
-### Setup Instructions
+### Running Python Programs
+To run any `.py` file:
+1. Open your terminal or command prompt
+2. Navigate to the folder with the file
+3. Type: `python filename.py` (replace `filename.py` with the actual file name)
+4. Press Enter
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/alex-prog/CYBS-GBG-E25A-Programming.git
-   cd CYBS-GBG-E25A-Programming
-   ```
-
-2. **Verify Python installation**:
-   ```bash
-   python --version
-   ```
-   or
-   ```bash
-   python3 --version
-   ```
-
-3. **Run your first program**:
-   ```bash
-   python 001_first.py
-   ```
-
-## 📖 Course Schedule
-
-| Session | Topic | File(s) | Description |
-|---------|-------|---------|-------------|
-| 01 | Introduction to Programming | `001_first.py` | Basic syntax, print statements |
-| 02 | User Input and Variables | `002_first_with_input.py` | Getting user input, variables |
-| ... | ... | ... | *Additional sessions will be added as we progress* |
-
-## 💻 How to Use This Repository
-
-### For Students
-
-1. **Before each class**: Pull the latest changes
-   ```bash
-   git pull origin main
-   ```
-
-2. **After each class**: Review the examples and try the exercises
-
-3. **Practice**: Modify the examples and experiment with the code
-
-4. **Questions**: Create issues in this repository or ask during class
-
-### Code Examples
-
-Each session file contains:
-- **Learning objectives** for that session
-- **Complete examples** that you can run immediately
-- **Exercises** for you to practice (look for `# TODO` comments)
-- **Comments** explaining the concepts
-
-### Running the Code
-
-To run any Python file:
-```bash
-python filename.py
+Example:
 ```
-
-For example:
-```bash
 python 001_first.py
 ```
 
-## 🔧 Development Environment
+## 📁 Course Files
 
-### Recommended Setup
+Each file follows this naming pattern: `XXX_topic_name.py`
 
-- **Editor**: VS Code with Python extension
-- **Terminal**: Integrated terminal in VS Code
-- **Git**: For version control
+| File | Topic | What You'll Learn |
+|------|-------|-------------------|
+| `001_first.py` | Your First Program | Basic syntax, print statements |
+| `002_first_with_input.py` | Getting User Input | Variables, input(), basic formatting |
+| `002_first_with_input_explained.py` | Detailed Input Examples | In-depth explanation with exercises |
 
-### VS Code Extensions (Recommended)
+*More files will be added as we progress through the course!*
 
-- Python (Microsoft)
-- Python Debugger (Microsoft)
-- GitHub Copilot (if available)
-- Code Runner
+## 💡 How to Learn Effectively
 
-## 📚 Resources
-
-### Official Documentation
-- [Python Official Documentation](https://docs.python.org/3/)
-- [Python Tutorial](https://docs.python.org/3/tutorial/)
-
-### Online Learning Resources
-- [Python.org Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-- [Real Python](https://realpython.com/)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-
-### Practice Platforms
-- [Python.org Exercises](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-- [HackerRank Python Track](https://www.hackerrank.com/domains/python)
-- [LeetCode Python Problems](https://leetcode.com/)
-
-## 🤝 Contributing
-
-### For Students
-- Report issues or typos by creating GitHub issues
-- Suggest improvements or additional examples
-- Share interesting solutions to exercises
-
-### Submitting Issues
-When reporting problems:
-1. Include the filename and line number
-2. Describe what you expected vs. what happened
-3. Include error messages if any
-4. Mention your operating system and Python version
-
-## 📝 Course Policies
-
-### Code Style
-- Follow the examples provided in class
-- Use meaningful variable names
-- Include comments to explain your thinking
-- Test your code before submitting
-
-### Academic Integrity
-- You may collaborate on understanding concepts
-- Individual work should be your own
-- Always cite sources when using external code or ideas
+1. **Read First** - Always read through the code before running it
+2. **Predict** - Try to guess what the code will do before running it
+3. **Experiment** - Change things and see what happens
+4. **Practice** - Complete the exercises in each file
+5. **Ask Questions** - Don't hesitate to ask during class!
 
 ## 🆘 Getting Help
 
-1. **During Class**: Ask questions immediately
-2. **GitHub Issues**: Create an issue in this repository
-3. **Email**: see ITSlearning
+- **In Class**: Raise your hand and ask questions
+- **Online**: Check the official Python documentation at [python.org](https://docs.python.org/3/)
+- **ITSLearning**: Check course announcements and materials
 
+## 📝 Tips for Success
 
-## 🎉 Acknowledgments
+- **Practice regularly** - Programming is learned by doing
+- **Start small** - Don't try to write complex programs immediately
+- **Read error messages** - They often tell you exactly what's wrong
+- **Use meaningful names** - Choose variable names that describe what they store
+- **Comment your code** - Explain what your code does in plain English
 
-- Thanks to all students for their engagement and questions
-- Special thanks to the Python community for excellent documentation
-- Inspiration from various online Python resources and tutorials
+## 🎯 Learning Objectives
+
+By the end of this course, you will be able to:
+- Write basic Python programs
+- Use variables and data types
+- Get input from users
+- Make decisions with if/else statements
+- Repeat actions with loops
+- Organize code with functions
+- Handle errors gracefully
 
 ---
 
-## 📜 License
-
-This educational content is provided for course participants. Please respect academic integrity policies when using this material.
-
----
-
-**Happy Coding! 🐍**
-
-*Remember: Programming is learned by doing. Run the code, break it, fix it, and most importantly, have fun!*
+**Happy coding! Remember: every expert programmer started exactly where you are now.** 🐍✨

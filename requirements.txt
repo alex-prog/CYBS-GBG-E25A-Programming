@@ -1,0 +1,6 @@
+# CYBS-GBG-E25A Programming Course Requirements
+# 
+# For now, we don't have any additional packages.
+# We will include them later if needed as the course progresses.
+# 
+# Currently using only Python's built-in standard library.
