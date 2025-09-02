@@ -159,5 +159,5 @@ temp/
 tmp/
 scratch/
 
+# GitHub automation and technical files (for cleaner student experience)
 .github/
-.gitignore
