@@ -158,3 +158,6 @@ instructor_tools/
 temp/
 tmp/
 scratch/
+
+.github/
+.gitignore
