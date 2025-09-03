@@ -46,6 +46,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | `001_first.py` | Your First Program | Basic syntax, print statements |
 | `002_first_with_input.py` | Getting User Input | Variables, input(), basic formatting |
 | `002_first_with_input_explained.py` | Detailed Input Examples | In-depth explanation with exercises |
+| `003_var_and_datatypes.py` | Variables and Data Types | Python data types, dynamic typing |
+| `003_var_and_datatypes_explained.py` | Data Types Deep Dive | Strings, lists, type conversion, detailed examples |
 
 *More files will be added as we progress through the course!*
 
