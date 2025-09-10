@@ -48,6 +48,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | `002_first_with_input_explained.py` | Detailed Input Examples | In-depth explanation with exercises |
 | `003_var_and_datatypes.py` | Variables and Data Types | Python data types, dynamic typing |
 | `003_var_and_datatypes_explained.py` | Data Types Deep Dive | Strings, lists, type conversion, detailed examples |
+| `004_var_datatype_part2.py` | Data Types Part 2 | List operations, slicing, user input conversion |
+| `004_var_datatype_part2_explained.py` | Advanced List Operations | List slicing, methods, indexing, comprehensive examples |
 
 *More files will be added as we progress through the course!*
 
