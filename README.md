@@ -50,6 +50,10 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | `003_var_and_datatypes_explained.py` | Data Types Deep Dive | Strings, lists, type conversion, detailed examples |
 | `004_var_datatype_part2.py` | Data Types Part 2 | List operations, slicing, user input conversion |
 | `004_var_datatype_part2_explained.py` | Advanced List Operations | List slicing, methods, indexing, comprehensive examples |
+| `005_var_datatype_part3.py` | Data Types Part 3 | Tuples and dictionaries basics |
+| `005_var_datatype_part3_explained.py` | Tuples and Dictionaries | Immutable data, key-value pairs, nested structures |
+| `006_control_flow_part1.py` | Control Flow Part 1 | Conditional statements basics |
+| `006_control_flow_part1_explained.py` | Conditional Statements | if/elif/else, boolean logic, comparison operators |
 
 *More files will be added as we progress through the course!*
 
