@@ -54,6 +54,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | `005_var_datatype_part3_explained.py` | Tuples and Dictionaries | Immutable data, key-value pairs, nested structures |
 | `006_control_flow_part1.py` | Control Flow Part 1 | Conditional statements basics |
 | `006_control_flow_part1_explained.py` | Conditional Statements | if/elif/else, boolean logic, comparison operators |
+| `007_control_flow_part2.py` | Control Flow Part 2 | Match statements, while/for loops |
+| `007_control_flow_part2_explained.py` | Loops and Advanced Control Flow | Match statements, while/for loops, break/continue, range() |
 
 *More files will be added as we progress through the course!*
 
