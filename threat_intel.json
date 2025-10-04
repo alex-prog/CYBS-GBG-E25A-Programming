@@ -1,0 +1,107 @@
+{
+  "feed_name": "CyberThreat Intelligence Feed",
+  "generated_at": "2025-09-16T08:00:00Z",
+  "source": "Security Operations Center",
+  "indicators": [
+    {
+      "id": "IOC-001",
+      "ioc_value": "192.168.1.100",
+      "ioc_type": "ip",
+      "severity": "high",
+      "confidence": 95,
+      "description": "Known botnet command and control server",
+      "last_seen": "2025-09-15T14:30:00Z",
+      "tags": ["malware", "botnet", "c2"]
+    },
+    {
+      "id": "IOC-002",
+      "ioc_value": "malware.example.com",
+      "ioc_type": "domain",
+      "severity": "high",
+      "confidence": 88,
+      "description": "Domain hosting malicious payloads",
+      "last_seen": "2025-09-16T09:15:00Z",
+      "tags": ["malware", "phishing"]
+    },
+    {
+      "id": "IOC-003",
+      "ioc_value": "203.0.113.45",
+      "ioc_type": "ip",
+      "severity": "medium",
+      "confidence": 75,
+      "description": "Suspicious scanning activity detected",
+      "last_seen": "2025-09-14T16:22:00Z",
+      "tags": ["scanning", "reconnaissance"]
+    },
+    {
+      "id": "IOC-004",
+      "ioc_value": "e3b0c44298fc1c149afbf4c8996fb924",
+      "ioc_type": "hash",
+      "severity": "high",
+      "confidence": 92,
+      "description": "SHA256 hash of known trojan executable",
+      "last_seen": "2025-09-15T11:45:00Z",
+      "tags": ["trojan", "malware"]
+    },
+    {
+      "id": "IOC-005",
+      "ioc_value": "suspicious-site.net",
+      "ioc_type": "domain",
+      "severity": "low",
+      "confidence": 60,
+      "description": "Domain with suspicious DNS patterns",
+      "last_seen": "2025-09-13T08:30:00Z",
+      "tags": ["suspicious", "dns"]
+    },
+    {
+      "id": "IOC-006",
+      "ioc_value": "10.0.0.250",
+      "ioc_type": "ip",
+      "severity": "high",
+      "confidence": 97,
+      "description": "Compromised internal host spreading ransomware",
+      "last_seen": "2025-09-16T07:45:00Z",
+      "tags": ["ransomware", "internal", "compromised"]
+    },
+    {
+      "id": "IOC-007",
+      "ioc_value": "phishing-bank.org",
+      "ioc_type": "domain",
+      "severity": "medium",
+      "confidence": 82,
+      "description": "Phishing site mimicking banking portal",
+      "last_seen": "2025-09-15T20:12:00Z",
+      "tags": ["phishing", "banking", "social-engineering"]
+    },
+    {
+      "id": "IOC-008",
+      "ioc_value": "a1b2c3d4e5f6789012345678901234567890abcd",
+      "ioc_type": "hash",
+      "severity": "high",
+      "confidence": 89,
+      "description": "SHA1 hash of cryptocurrency mining malware",
+      "last_seen": "2025-09-14T13:28:00Z",
+      "tags": ["cryptominer", "malware"]
+    },
+    {
+      "id": "IOC-009",
+      "ioc_value": "198.51.100.75",
+      "ioc_type": "ip",
+      "severity": "low",
+      "confidence": 55,
+      "description": "IP with minor policy violations",
+      "last_seen": "2025-09-12T10:15:00Z",
+      "tags": ["policy-violation", "monitoring"]
+    },
+    {
+      "id": "IOC-010",
+      "ioc_value": "data-exfil.dark",
+      "ioc_type": "domain",
+      "severity": "high",
+      "confidence": 94,
+      "description": "Domain used for data exfiltration activities",
+      "last_seen": "2025-09-16T06:30:00Z",
+      "tags": ["data-exfiltration", "apt", "stealer"]
+    }
+  ]
+}

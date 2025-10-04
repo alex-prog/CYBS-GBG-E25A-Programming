@@ -58,6 +58,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`007_control_flow_part2_explained.py`](007_control_flow_part2_explained.py) | Loops and Advanced Control Flow | Match statements, while/for loops, break/continue, range() |
 | [`008_functions_exceptions_and_files.py`](008_functions_exceptions_and_files.py) | Functions and Error Handling | Function basics, exception handling |
 | [`008_functions_exceptions_and_files_explained.py`](008_functions_exceptions_and_files_explained.py) | Functions and Exception Handling | Function definition, parameters, return values, try/except, custom exceptions |
+| [`009_files.py`](009_files.py) | File Operations | Basic file reading, writing, Path usage |
+| [`009_files_explained.py`](009_files_explained.py) | File Operations and Data Persistence | File I/O, different modes, Path operations, error handling, practical applications |
 
 *More files will be added as we progress through the course!*
 
