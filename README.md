@@ -60,6 +60,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`008_functions_exceptions_and_files_explained.py`](008_functions_exceptions_and_files_explained.py) | Functions and Exception Handling | Function definition, parameters, return values, try/except, custom exceptions |
 | [`009_files.py`](009_files.py) | File Operations | Basic file reading, writing, Path usage |
 | [`009_files_explained.py`](009_files_explained.py) | File Operations and Data Persistence | File I/O, different modes, Path operations, error handling, practical applications |
+| [`010_json_csv.py`](010_json_csv.py) | JSON and CSV Data | Basic JSON loading, filtering data |
+| [`010_json_csv_explained.py`](010_json_csv_explained.py) | JSON and CSV Data Processing | Structured data formats, parsing, manipulation, conversion, real-world applications |
 
 *More files will be added as we progress through the course!*
 
