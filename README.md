@@ -62,6 +62,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`009_files_explained.py`](009_files_explained.py) | File Operations and Data Persistence | File I/O, different modes, Path operations, error handling, practical applications |
 | [`010_json_csv.py`](010_json_csv.py) | JSON and CSV Data | Basic JSON loading, filtering data |
 | [`010_json_csv_explained.py`](010_json_csv_explained.py) | JSON and CSV Data Processing | Structured data formats, parsing, manipulation, conversion, real-world applications |
+| [`011_db.py`](011_db.py) | Database and HTTP | SQLite basics, HTTP requests |
+| [`011_db_explained.py`](011_db_explained.py) | Database Operations and HTTP Requests | SQLite CRUD operations, SQL queries, HTTP requests, API interaction, security applications |
 
 *More files will be added as we progress through the course!*
 

@@ -65,30 +65,46 @@
 # conn.commit()
 # conn.close()
 
-def read_students():
-    import sqlite3
+# def read_students():
+#     import sqlite3
 
-    conn = sqlite3.connect('students.db')
-    c = conn.cursor()
+#     conn = sqlite3.connect('students.db')
+#     c = conn.cursor()
 
-    data = c.execute('SELECT first_name, grade FROM students ORDER BY grade DESC').fetchall()
+#     data = c.execute('SELECT first_name, grade FROM students ORDER BY grade DESC').fetchall()
 
-    # print(data)
+#     # print(data)
 
-    for name, grade in data:
-        print(f'{name:10} {grade}')
+#     for name, grade in data:
+#         print(f'{name:10} {grade}')
 
 
-import sqlite3
+# import sqlite3
 
-conn = sqlite3.connect('students.db')
-c = conn.cursor()
+# conn = sqlite3.connect('students.db')
+# c = conn.cursor()
 
-q = '''DELETE FROM students WHERE first_name='Alice' OR first_name='Bob' 
-            OR (first_name='Hasan' AND grade=12)   '''
-c.execute(q)
+# q = '''DELETE FROM students WHERE first_name='Alice' OR first_name='Bob' 
+#             OR (first_name='Hasan' AND grade=12)   '''
+# c.execute(q)
 
-conn.commit()
-conn.close()
+# conn.commit()
+# conn.close()
 
-read_students()
+# read_students()
+
+
+
+import requests
+response = requests.get("https://www.kea.dk")
+input()
+print(f'{"-"*20} STATUS CODE {"-"*20}')
+print(response.status_code) # Prints 200 if things go well
+print(f'\n\n{"-"*20} TEXT {"-"*20}')
+input()
+
+print(response.text) 
+print(f'\n\n{"-"*20} content {"-"*20}')
+input()
+
+print(response.content) 
