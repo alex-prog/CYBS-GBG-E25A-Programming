@@ -64,6 +64,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`010_json_csv_explained.py`](010_json_csv_explained.py) | JSON and CSV Data Processing | Structured data formats, parsing, manipulation, conversion, real-world applications |
 | [`011_db.py`](011_db.py) | Database and HTTP | SQLite basics, HTTP requests |
 | [`011_db_explained.py`](011_db_explained.py) | Database Operations and HTTP Requests | SQLite CRUD operations, SQL queries, HTTP requests, API interaction, security applications |
+| [`012_recap.py`](012_recap.py) | Course Recap | Review of core concepts |
+| [`012_recap_explained.py`](012_recap_explained.py) | Course Recap and Integration | Comprehensive review, concept integration, practical exercises, mini-projects |
 
 *More files will be added as we progress through the course!*
 

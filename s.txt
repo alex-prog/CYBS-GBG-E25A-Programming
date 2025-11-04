@@ -1,0 +1,6 @@
+hasan h@ek.dk 7
+frederik f@ek.dk 10
+mahamoud m@ek.dk 10
+johannes j@ek.dk 12
+sara s@ek.dk 7
+nikita n@ek.dk 10
