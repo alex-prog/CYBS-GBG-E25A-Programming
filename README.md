@@ -66,6 +66,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`011_db_explained.py`](011_db_explained.py) | Database Operations and HTTP Requests | SQLite CRUD operations, SQL queries, HTTP requests, API interaction, security applications |
 | [`012_recap.py`](012_recap.py) | Course Recap | Review of core concepts |
 | [`012_recap_explained.py`](012_recap_explained.py) | Course Recap and Integration | Comprehensive review, concept integration, practical exercises, mini-projects |
+| [`013_documentation_and_debugging.py`](013_documentation_and_debugging.py) | Documentation and Debugging | Docstrings, debugging basics |
+| [`013_documentation_and_debugging_explained.py`](013_documentation_and_debugging_explained.py) | Documentation and Debugging Techniques | Comprehensive docstrings, debugging strategies, error handling, systematic troubleshooting |
 
 *More files will be added as we progress through the course!*
 
